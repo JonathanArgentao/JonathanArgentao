@@ -33,16 +33,24 @@
 - Shell ZSH
 
 ### 🧪 Explorando atualmente
-
 - TypeScript
 - Docker
 - CI/CD com GitHub Actions
 
----
+### 🧠 Inteligência Artificial no dia a dia
+
+Uso IA como uma ferramenta prática, quase como um **par de programação invisível** — sempre pronto pra revisar código, propor soluções ou simplesmente quebrar aquele branco de "como mesmo que era aquele comando do Postgres?".
+
+#### Como a IA me ajuda:
+- 🧑‍💻 **Pair programming com ChatGPT** — uso direto pra escrever, revisar e refatorar código  
+- 🧠 **Rascunho de ideias** — estruturo soluções, lógicas de negócio e arquitetura com apoio de IA  
+- 📎 **Automação leve** — uso scripts sugeridos por IA pra pequenas tarefas, como organizar dados, gerar comandos de terminal ou montar consultas SQL
+
+> *Não uso IA pra substituir meu trabalho — uso pra potencializar minha clareza, velocidade e foco. É tipo um "npm install produtividade".* 🚀
 
 ## 📚 Um pouco mais de mim
 - 💬 Gosto de entender a necessidade real antes de codar
-- 🤝 Costumo trabalhar junto com RH, financeiro e pesquisa pra criar sistemas internos realmente úteis
+- 🤝 Costumo trabalhar junto a todas as áreas da empresa pra criar sistemas internos realmente úteis
 - 🔍 Estou sempre buscando refinar minha organização pessoal, produtividade e fluxo de trabalho
 
 ---
